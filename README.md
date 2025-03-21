@@ -35,7 +35,9 @@ ___
     print(np.array([1, 2, 3]) ** 2)
 <!-- 代码块 -->
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
+
 我最喜欢的环境管理工具是conda
-“01 环境搭建的截图一”<!-- 图片，设置图片宽度为800 -->
+"https://github.com/asdw111esa/-/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250321214650.png" 
+
 我可以在IDE上使用我建立的虚拟环境
-“01 环境搭建的截图一”<!-- 图片，设置图片宽度为800 -->
+https://github.com/asdw111esa/-/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250321214656.png">
